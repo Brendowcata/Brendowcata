@@ -2,7 +2,7 @@
 ### My name is Brendow and my nickname is "w0dn3r"!
 
 
-<h2>Ferramentas e Tecnologias 🧐</h2>
+<h2>Tools and Technologies 🧐</h2>
 
 <div style="display: inline_block"><br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
@@ -23,14 +23,14 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brendowcata&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
-<h2>O que estou estudando 🤓</h2>
+<h2>What am i studying 🤓</h2>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40"/>
           
 </div>
 
 ##
-  <h2>Como entrar em contato comigo 👽</h2>
+  <h2>How to contact me 👽</h2>
   <div>
     <a href="https://www.linkedin.com/in/brendowcata/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "mailto:brendowcata1@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
