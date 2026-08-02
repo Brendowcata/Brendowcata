@@ -23,8 +23,8 @@ Full Stack Developer with 4+ years of experience building scalable APIs, microse
 ## 📊 GitHub stats
 
 <div>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Brendowcata&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brendowcata&layout=compact&langs_count=7&theme=dark"/>
+  <img height="150em" src="https://github-readme-stats-sooty-eight.vercel.app/api?username=Brendowcata&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats-sooty-eight.vercel.app/api/top-langs/?username=Brendowcata&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 ## 📫 Let's connect
