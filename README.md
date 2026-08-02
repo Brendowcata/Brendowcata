@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Brendow (a.k.a. w0dn3r)
+## 👋 Hi, I'm Brendow
 
 Full Stack Developer with 4+ years of experience building scalable APIs, microservices, and modern front-ends. Currently focused on Java/Spring Boot, React/TypeScript, and applying AI to real-world problems.
 
